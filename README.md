@@ -13,3 +13,5 @@ En pareja diseñar una aplicación que administre una lista de canciones, se deb
    - Filtrar canciones en el mismo año
 
 - Se debe crear comportamientos en donde se permita ordenar por duración y fecha.
+
+presentación:  https://youtu.be/pQxzTLUy00Y
